@@ -7,8 +7,8 @@ This repository contains links to evaluation data for various research projects 
 
 ## Data Files
 
-| Project  | File | Description | Link |
-|----------|------|-------------|------|
+| Project   | File | Description | Link |
+|-----------|------|-------------|------|
 | **ElasticRoute** | xdp_unloaded.csv | Performance measurements without network load | [Download](https://data.wine.ac.nz/elasticroute/xdp_unloaded.csv) |
 | | xdp_loaded.csv | Performance measurements under network load | [Download](https://data.wine.ac.nz/elasticroute/xdp_loaded.csv) |
 | **ElasticWISP-NG** | influx_cleaned.data.csv | Cleaned network traffic data used for evaluating energy-proportional operation | [Download](https://data.wine.ac.nz/elasticwisp-ng/influx_cleaned.data.csv) |
@@ -20,7 +20,7 @@ This repository contains links to evaluation data for various research projects 
 | **PURPLE Testbed** | site_usbimager-20250502T1749.dd.zst | Compressed disk image for site deployment | [Download](https://data.wine.ac.nz/purple-testbed/site_usbimager-20250502T1749.dd.zst) |
 | | client_usbimager-20250503T1944.dd.zst | Compressed disk image for client deployment | [Download](https://data.wine.ac.nz/purple-testbed/client_usbimager-20250503T1944.dd.zst) |
 | **Turbine** | turbine_power_data.zip | Power generation measurements from Heights Road wind turbine | [Download](https://data.wine.ac.nz/turbine/turbine_power_data.zip) |
-| | turbine_image_data.zip | Image dataset of Heighrs Road turbine for visual analysis | [Download](https://data.wine.ac.nz/turbine/turbine_image_data.zip) |
+| | turbine_image_data.zip | Image dataset of Heights Road turbine for visual analysis | [Download](https://data.wine.ac.nz/turbine/turbine_image_data.zip) |
 
 ## Project Descriptions
 
